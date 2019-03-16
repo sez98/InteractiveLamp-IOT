@@ -1,1 +1,1 @@
-# SmartWasteSortingMachine-IOT
+#Interactive Lamp-IOT
